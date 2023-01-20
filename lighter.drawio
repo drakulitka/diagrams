@@ -1,50 +1,59 @@
-<mxfile host="app.diagrams.net" modified="2023-01-20T08:04:24.959Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 YaBrowser/22.11.3.838 Yowser/2.5 Safari/537.36" etag="5Jp-JkQVk1HL62YMiURm" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-20T08:16:11.134Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 YaBrowser/22.11.3.838 Yowser/2.5 Safari/537.36" etag="4LjXsy_ornN_Buph0FBd" version="20.5.3" type="github">
   <diagram id="7aD-SZi1Tq6W4AjMfTM7" name="Страница 1">
-    <mxGraphModel dx="2651" dy="1549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="2632" dy="1531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="5EMwlj--x3OL_mx_9ZX_-12" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+        <mxCell id="5EMwlj--x3OL_mx_9ZX_-12" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;shadow=0;sketch=0;glass=0;autosize=0;noLabel=0;absoluteArcSize=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="180" y="300" width="2066.9249999999997" height="511.81" as="geometry" />
         </mxCell>
-        <mxCell id="5EMwlj--x3OL_mx_9ZX_-2" value="Радиатор с диодами" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="570" width="1968.5" height="212.59799999999998" as="geometry" />
+        <mxCell id="5EMwlj--x3OL_mx_9ZX_-2" value="Радиатор с диодами" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="260" y="570" width="1968.5" height="212.59799999999998" as="geometry" />
         </mxCell>
-        <mxCell id="5EMwlj--x3OL_mx_9ZX_-3" value="Блок питания 24V 200W" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5EMwlj--x3OL_mx_9ZX_-3" value="Блок питания 24V 200W" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="349.99739999999974" y="321.89" width="708.66" height="196.85" as="geometry" />
         </mxCell>
-        <mxCell id="5EMwlj--x3OL_mx_9ZX_-4" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Плата с драйверами&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="404.25" width="393.7" height="110.23599999999999" as="geometry" />
-        </mxCell>
-        <mxCell id="5EMwlj--x3OL_mx_9ZX_-5" value="Ардуино NANO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5EMwlj--x3OL_mx_9ZX_-5" value="Ардуино NANO" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1800.0000000000002" y="439.99999999999994" width="177.165" height="78.74" as="geometry" />
         </mxCell>
-        <mxCell id="5EMwlj--x3OL_mx_9ZX_-6" value="ШИМ 16к" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5EMwlj--x3OL_mx_9ZX_-6" value="ШИМ 16к" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1540" y="416.06" width="208.661" height="98.425" as="geometry" />
         </mxCell>
-        <mxCell id="5EMwlj--x3OL_mx_9ZX_-7" value="Часы" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5EMwlj--x3OL_mx_9ZX_-7" value="Часы" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1827.56" y="319.69" width="149.606" height="78.74" as="geometry" />
         </mxCell>
-        <mxCell id="5EMwlj--x3OL_mx_9ZX_-8" value="LCD" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;" vertex="1" parent="1">
+        <mxCell id="5EMwlj--x3OL_mx_9ZX_-8" value="LCD 1602" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1100" y="287.79" width="314.96" height="39.37" as="geometry" />
         </mxCell>
-        <mxCell id="5EMwlj--x3OL_mx_9ZX_-9" value="Датчик тока" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5EMwlj--x3OL_mx_9ZX_-9" value="Датчик тока" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="200" y="321.8900000000001" width="125.984" height="59.055" as="geometry" />
         </mxCell>
-        <mxCell id="5EMwlj--x3OL_mx_9ZX_-10" value="Розетка" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5EMwlj--x3OL_mx_9ZX_-10" value="Розетка С13&lt;br&gt;10А" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="170.00000000000006" y="410" width="118.11" height="137.795" as="geometry" />
         </mxCell>
-        <mxCell id="5EMwlj--x3OL_mx_9ZX_-13" value="Вентилятор" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;horizontal=0;" vertex="1" parent="1">
+        <mxCell id="5EMwlj--x3OL_mx_9ZX_-13" value="Вентилятор" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;horizontal=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="184.51999999999998" y="577.87" width="59.055" height="196.85" as="geometry" />
         </mxCell>
-        <mxCell id="5EMwlj--x3OL_mx_9ZX_-17" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="5EMwlj--x3OL_mx_9ZX_-17" value="" style="group;fontSize=16;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1460" y="230.00000000000003" width="118.1099999999999" height="89.68499999999995" as="geometry" />
         </mxCell>
-        <mxCell id="5EMwlj--x3OL_mx_9ZX_-15" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="5EMwlj--x3OL_mx_9ZX_-17">
+        <mxCell id="5EMwlj--x3OL_mx_9ZX_-15" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontSize=16;" vertex="1" parent="5EMwlj--x3OL_mx_9ZX_-17">
           <mxGeometry y="70" width="118.11" height="19.685" as="geometry" />
         </mxCell>
-        <mxCell id="5EMwlj--x3OL_mx_9ZX_-16" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="5EMwlj--x3OL_mx_9ZX_-17">
+        <mxCell id="5EMwlj--x3OL_mx_9ZX_-16" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontSize=16;" vertex="1" parent="5EMwlj--x3OL_mx_9ZX_-17">
           <mxGeometry x="39.36999999999989" width="39.37" height="78.74" as="geometry" />
+        </mxCell>
+        <mxCell id="5EMwlj--x3OL_mx_9ZX_-20" value="Плата с драйверами" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="408.5" width="393.7" height="110.23599999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="5EMwlj--x3OL_mx_9ZX_-21" value="525 мм" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="840" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5EMwlj--x3OL_mx_9ZX_-22" value="130 мм" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fontSize=18;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="547.8" width="80" height="112.2" as="geometry" />
+        </mxCell>
+        <mxCell id="5EMwlj--x3OL_mx_9ZX_-23" value="Макет светильника" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fontSize=24;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1030" y="170" width="392" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
